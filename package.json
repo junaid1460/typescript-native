@@ -1,0 +1,20 @@
+{
+  "name": "typescript-native",
+  "version": "0.0.1",
+  "description": "Typescript to CPP transpiler",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "test/index.ts"
+  },
+  "keywords": [
+    "typescript",
+    "cpp",
+    "transpiler"
+  ],
+  "author": "Junaid",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^8.0.3",
+    "typescript": "^3.4.2"
+  }
+}
